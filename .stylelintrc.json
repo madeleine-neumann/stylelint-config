@@ -16,11 +16,11 @@
     "declaration-block-semicolon-space-after": "always",
     "declaration-no-important": true,
     "font-weight-notation": "numeric",
-    "at-rule-no-vendor-prefix": false,
-    "media-feature-name-no-vendor-prefix": false,
-    "property-no-vendor-prefix": false,
-    "selector-no-vendor-prefix": false,
-    "value-no-vendor-prefix": false,
+    "at-rule-no-vendor-prefix": true,
+    "media-feature-name-no-vendor-prefix": true,
+    "property-no-vendor-prefix": true,
+    "selector-no-vendor-prefix": true,
+    "value-no-vendor-prefix": true,
 
     "order/declaration-block-properties-specified-order": [
       "position",
