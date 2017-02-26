@@ -16,8 +16,6 @@
     "declaration-block-semicolon-space-after": "always",
     "declaration-no-important": true,
     "font-weight-notation": "numeric",
-
-    // Only false, when you're using an autoprefixer'
     "at-rule-no-vendor-prefix": false,
     "media-feature-name-no-vendor-prefix": false,
     "property-no-vendor-prefix": false,
